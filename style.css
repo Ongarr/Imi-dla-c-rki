@@ -8,17 +8,14 @@ h1 {
 body {
 	background: #333;
   padding-top: 5em;
-  
+
   justify-content: center;
 	}
 
 #corka {
-	font-size: 85px;
+	font-size: 75px;
 	text-align: center;
 	color: #fff;
 	font-weight: 900;
 	font-family:  sacramento;
 }
-
-
-	
