@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+	font-family: Montserrat;
+	color:pink;
+}
+
+
+body {
+	background: #333;
+  padding-top: 5em;
+  
+  justify-content: center;
+	}
+
+#corka {
+	font-size: 85px;
+	text-align: center;
+	color: #fff;
+	font-weight: 900;
+	font-family:  sacramento;
+}
+
+
+	
